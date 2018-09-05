@@ -1,7 +1,6 @@
 from datetime import date
 
 
-
 def age ():
     yob = int( input('Enter your year :'))
     today_date = date.today().year
